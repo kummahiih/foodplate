@@ -1,0 +1,2 @@
+﻿'tulokset\'
+* syötteistä lasketut tulokset

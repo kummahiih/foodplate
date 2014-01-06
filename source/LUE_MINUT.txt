@@ -1,0 +1,46 @@
+﻿
+'csv datat\'
+*  lautasmallilaskurista otetut csv -tiedot
+
+'kaytetyt syotteet\'
+* lautasmallilaskurin csv -tiedostoista luetut siistityt syötteet
+
+'tulokset\'
+* syötteistä lasketut tulokset
+
+'plots\'
+* tuloksista piirretyt kuvaajat
+
+'tests_for_paper.R'
+* ajo, jolla on laskettu aterioiden pisteytykset
+* vaihda skriptistä ajokansio (rootpath) ennen ajamista
+
+'optimointi_paperiin.R'
+* tällä skriptillä ja sen muunnelmill on tehty reseptien optimointiajot
+* vaihda skriptistä ajokansio (rootpath) ennen ajamista
+
+'otsikot.R'
+* luokkamärittely skripteissä käytettyjen taulukoiden otsikoille
+
+'syotteet.R'
+* luokkamäärittely skriptien syötetaulukoille
+* syötteiden tallennus tarkistuksia varten
+
+'lue_csv_taulukot.R'
+* tulkitaan lautasmallilaskurista saadut csv -tiedostot ja muodostetaan 'Syotteet' -luokka
+
+'reseptit.R'
+* Reseptien tietojen laskeminen ja talennus syötteiden perusteella
+
+'aterian_pisteytykset.R'
+* yksittäisten aterioiden pisteiden laskenta ja tallennus
+
+'yhteenveto.R'
+* yhteenvetotaulukon muodostus ja tallentaminen (reseptien scoret ja paretopinnat)
+
+'lokaalit_optimit.R'
+* lokaalien optimien selvittelyä
+
+'reunaehdot.R'
+* lokaalien optimien selvittelyssä käytetyt reunaehdot
+

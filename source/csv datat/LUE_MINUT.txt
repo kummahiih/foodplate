@@ -1,0 +1,3 @@
+﻿
+'csv datat\'
+*  lautasmallilaskurista otetut csv -tiedot

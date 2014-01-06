@@ -1,0 +1,3 @@
+﻿
+'kaytetyt syotteet\'
+* lautasmallilaskurin csv -tiedostoista luetut siistityt syötteet
