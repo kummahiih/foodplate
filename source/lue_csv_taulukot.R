@@ -15,7 +15,7 @@ lue.csv.taulukot <- function(rootpath )
   
   
   #rootpath == polku jonka alla 'csv datat' -hakemisto 
-  #esimerkiksi, jos tämä tiedosto sijaite hakemistossa "C:/projektit/foodweb/prog" 
+  #esimerkiksi, jos tämä tiedosto sijaitsee hakemistossa "C:/projektit/foodweb/prog" 
   
   print(c("initializing from", rootpath))
   

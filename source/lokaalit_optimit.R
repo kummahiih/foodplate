@@ -11,7 +11,7 @@
 #käyttäen RStudio -kehitystyökalua
 
 #rootpath == polku jonka alla 'csv datat' -hakemisto 
-#esimerkiksi, jos tämä tiedosto sijaite hakemistossa "C:/projektit/foodweb/prog"
+#esimerkiksi, jos tämä tiedosto sijaitsee hakemistossa "C:/projektit/foodweb/prog"
 
 rootpath="C:/projektit/foodweb/prog"
 
